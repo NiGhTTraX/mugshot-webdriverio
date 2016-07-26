@@ -1,11 +1,11 @@
-var WebdriverIOAdapter = require('../lib/webdriverio.js');
-var webdriverio = require('webdriverio');
-var expect = require('chai').expect;
-var path = require('path');
+const WebdriverIOAdapter = require('../lib/webdriverio.js');
+const webdriverio = require('webdriverio');
+const expect = require('chai').expect;
+const path = require('path');
 
 describe('Testing WebDriverIOAdaptor', function() {
-  var url, options, webdriverioInstance, browser, selector, brokenSelector;
-  var invalidWebdriverioInstance, invalidBrowser;
+  let url, options, webdriverioInstance, browser, selector, brokenSelector;
+  let invalidWebdriverioInstance, invalidBrowser;
 
   before(function(done) {
 

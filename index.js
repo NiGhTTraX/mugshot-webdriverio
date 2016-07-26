@@ -1,4 +1,4 @@
-var WebDriverIOAdaptor = require('./lib/webdriverio.js');
+const WebDriverIOAdaptor = require('./lib/webdriverio.js');
 
 WebDriverIOAdaptor.interfaces = {
   browser: require('./lib/interfaces/browser.js')
