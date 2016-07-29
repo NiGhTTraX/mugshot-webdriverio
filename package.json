@@ -4,7 +4,7 @@
   "description": "Adapter for WebDriverIO.",
   "main": "index.js",
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "object-assign": "3.0.0"
   },
