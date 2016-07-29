@@ -1,5 +1,5 @@
-Visual tests
-============
+Integration tests
+=================
 
 You first need to run a browser:
 ```sh
