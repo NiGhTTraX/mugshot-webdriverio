@@ -20,5 +20,15 @@
     "browser": "phantomjs --webdriver=4444",
     "lint": "eslint .",
     "test": "mocha tests/test.js"
-  }
+  },
+  "repository": {
+  "type": "git",
+  "url": "git+https://github.com/uberVU/mugshot-webdriverio"
+  },
+  "keywords": [
+    "adapter",
+    "mugshot",
+    "webdriverio",
+  ],
+  "homepage": "https://github.com/uberVU/mugshot-webdriverio#readme"
 }
