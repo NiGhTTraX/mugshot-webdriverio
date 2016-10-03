@@ -2,8 +2,10 @@
   "name": "mugshot-webdriverio",
   "version": "1.0.0",
   "description": "Adapter for WebDriverIO.",
+  "contributors": [{
+    "name": "Adela Istrate"
+  }],
   "main": "index.js",
-  "author": "",
   "license": "MIT",
   "dependencies": {
     "object-assign": "3.0.0"
